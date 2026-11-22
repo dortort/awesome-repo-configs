@@ -51662,5 +51662,14 @@
     "repoOwner": "jordyfontoura",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "dortort/claude-plugins": {
+    "name": "claude-plugins",
+    "description": "Claude Code plugin marketplace with native OS scheduling (scheduler), session taint-tracking security guardrails (taint-guard), interactive HTML artifact callbacks (artifact-callbacks), and portable skills. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dortort",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }
